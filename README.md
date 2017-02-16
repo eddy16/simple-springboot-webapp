@@ -33,7 +33,7 @@ mvn spring-boot:run
 ### Test
 There are two URL mapped, the first one is a simple rest endpoint and you can get with:
 ```
-curl localhost:8080/hello/edgar
+curl localhost:8080/hello/yourname
 ```
 Or simply put it in the browser.
 
